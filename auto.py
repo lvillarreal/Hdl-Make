@@ -2,6 +2,9 @@
 # Autor: Villarreal Luciano
 
 #-----------------------------
+
+# Programa que crea automaticamente los archivos Manifest.py de hdl para ghdl y gtkwave.
+
 # Se debe organizar el proyecto de la siguiete manera, respetando las capetas.
 # Proyecto
 # |__ auto.py
